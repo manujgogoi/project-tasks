@@ -3,7 +3,8 @@
 - **Categories**: Core PHP, Laravel, MySQL
 - **Tech Stack**: `PHP` >= `8.1`, `Laravel` >= `11`, `MySQL` >= `7.x`
 - **Time**: **24 hours**
-- **Task Requirement**: Complete at least 10, up to 20
+- **Task Requirement**: Complete at least 9, up to 19
+- ⚠️ Please note: This is a temporary repository and will be removed after 30th May 2025.
 
 ## Evaluation Criteria:
 
@@ -43,7 +44,7 @@ You can include boilerplate folders or minimal starter code for Laravel tasks if
 - Some tasks may not provide complete instructions—use your imagination and logical reasoning to fill the gaps and complete the task creatively and effectively.
 - Use **PHP ≥ 8.1**, **Laravel ≥ 11**, and **MySQL ≥ 7.x** as specified.
 - Push the completed tasks before the **24-hour deadline**
-- Share the **GitHub/GitLab repo link** back with us via email (📧 TO: manuj@indigiconsulting.com) and 📧 CC: abc@xyz.com.
+- Share the **GitHub/GitLab repo link** back with us via email (📧 TO: manuj@indigiconsulting.com) and 📧 CC: puja@indigiconsulting.com.
 - **Deadline**: Submit your email before **29th May 2025, 12:00 Noon**.
   Submissions received after this time will not be considered.
 
