@@ -38,11 +38,14 @@ You can include boilerplate folders or minimal starter code for Laravel tasks if
 
 - Fork this repository (or clone and push to your own **GitHub** repo.)
 - Work within the provided structure
-- Complete at least 10 tasks (you may complete up to 20).
-- Ensure your code follows **best practices**: clean, readable, and well-commented.
+- Complete **_at least 9 tasks_** (you may complete up to 19 tasks).
+- Ensure your code follows **best practices**: _clean_, _readable_, and _well-commented_.
+- Some tasks may not provide complete instructions—use your imagination and logical reasoning to fill the gaps and complete the task creatively and effectively.
 - Use **PHP ≥ 8.1**, **Laravel ≥ 11**, and **MySQL ≥ 7.x** as specified.
 - Push the completed tasks before the **24-hour deadline**
-- Share the **GitHub/GitLab repo link** back with us via email.
+- Share the **GitHub/GitLab repo link** back with us via email (📧 TO: manuj@indigiconsulting.com) and 📧 CC: abc@xyz.com.
+- **Deadline**: Submit your email before **29th May 2025, 12:00 Noon**.
+  Submissions received after this time will not be considered.
 
 ## 🚫 Important Rules
 
@@ -56,9 +59,11 @@ You can include boilerplate folders or minimal starter code for Laravel tasks if
 
 ## Task list
 
-### PHP Tasks
+### 🟨 PHP Tasks
 
-**Task 1**: Form Handling & Validation
+> Complete at Least 3 of the Following 4 Tasks
+
+**💥 Task 1**: Form Handling & Validation
 
 **Description**: Create a basic HTML + PHP form to collect:
 
@@ -79,7 +84,7 @@ Skills Required:
 - MySQL insert
 - User-friendly error handling
 
-**Task 2**: File Upload
+**💥 Task 2**: File Upload
 
 **Description**: Allow user to upload a profile picture (JPG/PNG). Store file in a folder and save file path in the DB.
 
@@ -89,7 +94,7 @@ Skills Required:
 - Validating file `type/size`
 - Storing file and updating `DB`
 
-**Task 3**: Pagination
+**💥 Task 3**: Pagination
 
 **Description**: Create a PHP page that displays data from products table with pagination (5 items per page).
 
@@ -99,7 +104,7 @@ Skills Required:
 - URL parameter handling
 - Looping and displaying data
 
-**Task 4**: Role-Based Access Control
+**💥 Task 4**: Role-Based Access Control
 
 **Description**: Create a **PHP** script with two roles: `admin` and `user`.
 
@@ -114,7 +119,7 @@ Skills Required:
 - Role-based logic
 - Secure form handling
 
-**Task 5**: JSON API Simulation
+**💥 Task 5**: JSON API Simulation
 
 **Description**: Create a PHP script that reads user data from a MySQL table and returns JSON (`e.g., /api/users.php`).
 Add optional filter by `age` or `city` via GET parameters.
@@ -125,7 +130,7 @@ Skills Tested:
 - Dynamic SQL queries
 - RESTful response structure
 
-**Task 6**: Basic Login and Session System
+**💥 Task 6**: Basic Login and Session System
 
 **Description**:
 
@@ -135,9 +140,11 @@ Skills Tested:
 - Add logout option
 - Bonus: Redirect non-logged-in users from a protected page.
 
-### MySQL Tasks
+### 🟨 MySQL Tasks
 
-**Task 1**: Write Queries
+> Complete at Least 3 of the Following 5 Tasks
+
+**💥 Task 1**: Write Queries
 
 Given a sales table:
 
@@ -158,7 +165,7 @@ Skills Required:
 - JOINs if needed
 - Date filtering
 
-**Task 2**: Schema Design
+**💥 Task 2**: Schema Design
 
 **Problem**: Design tables for a blogging platform:
 
@@ -172,7 +179,7 @@ Skills Tested:
 - Normalization
 - Relationships (1-to-many, many-to-many)
 
-**Task 3**: Subqueries and Joins
+**💥 Task 3**: Subqueries and Joins
 
 Table Example:
 
@@ -193,7 +200,7 @@ Skills Required:
 - Subqueries
 - Joins with filters
 
-**Task 4**: Write a Normalized Schema
+**💥 Task 4**: Write a Normalized Schema
 
 **Description**:
 Design a schema for a school system with:
@@ -209,16 +216,18 @@ You should:
 - Normalize to at least 3NF
 - Add example INSERTs and SELECT queries
 
-**Task 5**: Trigger to Track Deleted Records
+**💥 Task 5**: Trigger to Track Deleted Records
 
 **Description**:
 Create a table `employees`. When a record is deleted, copy it to a `deleted_employees` archive table using **a trigger**.
 
 Bonus: Include a `timestamp` in `archive`.
 
-### Laravel Tasks
+### 🟨 Laravel Tasks
 
-**Task 1**: Simple Blog CRUD
+> Complete at Least 3 of the Following 8 Tasks
+
+**💥 Task 1**: Simple Blog CRUD
 
 Create a blog system:
 
@@ -234,7 +243,7 @@ Skills Required:
 - Auth (Laravel Breeze or basic auth)
 - Relationships (User `hasMany` Posts)
 
-**Task 2**: API Endpoint
+**💥 Task 2**: API Endpoint
 
 Create a Laravel API that:
 
@@ -250,7 +259,7 @@ Skills Required:
 - JSON request/response
 - API authentication (optional)
 
-**Task 3**: Eloquent Relationships
+**💥 Task 3**: Eloquent Relationships
 
 Tables:
 
@@ -263,7 +272,7 @@ Skills Required:
 - Eloquent one-to-many & many-to-many
 - hasMany, belongsToMany, eager loading
 
-**Task 4**: Email Notification
+**💥 Task 4**: Email Notification
 
 On new user registration, send a welcome email.
 
@@ -273,7 +282,7 @@ Skills Tested:
 - Event-driven flow
 - Blade template for email
 
-**Task 5**: Search & Filter
+**💥 Task 5**: Search & Filter
 
 Build a search bar to filter users (`id`, `name`, `email`, `address`, ...) by `name/email` in a Laravel app.
 
@@ -283,7 +292,7 @@ Skills Tested:
 - Blade conditional rendering
 - Handling GET parameters
 
-**Task 6**: Task Management System
+**💥 Task 6**: Task Management System
 
 **Description**: Create a Laravel app with 3 models:
 
@@ -306,7 +315,7 @@ Skills Required:
 - Eloquent relationships
 - Query **scopes** or **filters**
 
-**Task 7**: Export to CSV
+**💥 Task 7**: Export to CSV
 
 **Description**: Create a Laravel route that allows exporting all `products` to CSV with fields: `name`, `price`, `category`, `stock`.
 
@@ -316,7 +325,7 @@ Skills Required:
 - CSV formatting
 - Handling large data efficiently
 
-**Task 8**: Laravel Middleware
+**💥 Task 8**: Laravel Middleware
 
 **Description**:
 Write a custom middleware that:
